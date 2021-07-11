@@ -1,4 +1,4 @@
-## Hey! Eu sou Pablo Guedes
+## Olá, eu sou Pablo Guedes
  <div>
   <a href="https://github.com/pabloguedesc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloguedesc&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
