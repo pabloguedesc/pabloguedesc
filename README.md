@@ -1,13 +1,12 @@
-## Hi there, I am Pablo Guedes!
 
+## 👋 Hi there, I am Pablo Guedes! 
+💻 Full-stack developer and UI designer
 
  <div>
   <a href="https://github.com/pabloguedesc">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pabloguedesc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloguedesc&layout=compact&langs_count=16&theme=dark"/>
 </div>
- 
-#
  
  <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
@@ -24,9 +23,10 @@
   <img align="center" alt="Pablo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Pablo-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Pablo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"> 
-</div>
-  
+</div> 
+ 
  #
+ 
 <div> 
   <a href="https://instagram.com/pabloguedesc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pabloguedesc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
