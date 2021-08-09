@@ -1,6 +1,6 @@
 
 ## 👋 Hi there, I am Pablo Guedes! 
-💻 Full-stack developer and UI designer
+💻 Web-developer and UI designer
 
  <div>
   <a href="https://github.com/pabloguedesc">
