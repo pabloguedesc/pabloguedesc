@@ -1,6 +1,5 @@
 
 ## 👋 Hi there, I am Pablo Guedes! 
-💻 Web-developer and UI designer
 
  <div>
   <a href="https://github.com/pabloguedesc">
