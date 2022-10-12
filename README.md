@@ -1,5 +1,5 @@
 
-## 👋 Hi everyone, I'm Pablo Guedes! 
+## 👋 Hi everyone!
 
  <div>
   <a href="https://github.com/pabloguedesc">
