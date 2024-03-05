@@ -1,4 +1,4 @@
-
+<img align="center" src="./assets/header.png"/>
 
 <p align="center">I love solve great challenges using tech. <br> From backend development using NestJs to frontend development using React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
